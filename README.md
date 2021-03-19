@@ -5,7 +5,7 @@
 ![](Images/about.png)
 ![](Images/update.png)
 ![](Images/displays.png)
-![](Images/network.png)
+![](Images/network2.png)
 ![](Images/storage.png)
 ![](Images/sound-out.png)
 ![](Images/sound-in.png)
