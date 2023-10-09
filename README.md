@@ -1,32 +1,22 @@
-# Ryzentosh
+# 锐龙黑苹果
 
-### Supports MacOS 10.15.x ~ 11.0.x
+### Supports MacOS 10.13.x ~ 14.0.x
 
 ![](Images/about.png)
-![](Images/update.png)
-![](Images/displays.png)
-![](Images/network2.png)
-![](Images/storage.png)
-![](Images/sound-out.png)
-![](Images/sound-in.png)
-![](Images/neofetch.png)
 
-## My System
+## 我的配置信息
 
-- Ryzen 7 3700X
-- RX 570 4GB
-- 2 Displays 27" FHD
-- 2 Displays 24" FHD
-- 1 Display 27" FHD Ultra-Wide
-- 16gb 2666mHZ of DDR4 RAM
-- NVME m.2 512GB 
-- Motherboard TUF Gaming B550M Plus
-- Astro A50
-
+- CPU Ryzen 7 3700X
+- 显卡 英伟达 GT740
+- 显示器 Displays 24" FHD
+- 内存 16gb 3200mHZ of DDR4 RAM
+- 固态硬盘 NVME m.2 1TB 
+- 主板 微星 B550M 迫击炮
+- 系统 macOS Sonoma14.0 正式版
 ## Important Note
 
-- DWYOR!!!
-- Enjoy it while we still can do this
+- 主板改动：
+
 - Set SATA mode to AHCI (Use CTRL+S in BIOS to unhide SATA Mode menu)
 - Disable Secure Boot
 - Generate new SMBIOS (https://github.com/corpnewt/GenSMBIOS)
